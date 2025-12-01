@@ -1,6 +1,6 @@
 cask "mermaid-editor" do
-  version "1.0.1"
-  sha256 "d26276a88993038f97202d73f7d9a0d5530cc62f372b5f8baee34cb2051788b6"
+  version "1.0.2"
+  sha256 "5207914156448056143d1f0698cb417d23105ba9510cff8d01d88173b4386a27"
 
   url "https://github.com/Lee0110/mermaid_editor/releases/download/v#{version}/mermaid_editor_macos.zip"
   name "Mermaid Editor"
